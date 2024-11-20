@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @PBTucker288
+- 👋 Hi, I’m Phil
 - 👀 I’m interested in Penetration Testing and Web Application Development
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: p.tucker58@yahoo.com
+
 
 <!---
 PBTucker288/PBTucker288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
